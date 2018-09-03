@@ -1,0 +1,22 @@
+{
+  "name": "projet-pfe",
+  "version": "1.0.0",
+  "description": "C'est une application web crée par Zineb SKARABI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKARABI/Projet-Pfe.git"
+  },
+  "author": "Zineb SKARABI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKARABI/Projet-Pfe/issues"
+  },
+  "homepage": "https://github.com/SKARABI/Projet-Pfe#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
